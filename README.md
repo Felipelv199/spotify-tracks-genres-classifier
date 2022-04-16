@@ -1,1 +1,1 @@
-# spotify-genre-multiclass-classifier
+# Spotify Genre Multiclass Classifier
