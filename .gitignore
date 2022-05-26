@@ -1,3 +1,5 @@
 data/
 *.ini
 **/__pycache__
+images/
+.vscode/
